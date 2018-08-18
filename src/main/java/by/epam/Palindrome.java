@@ -2,6 +2,7 @@ package by.epam;
 
 public class Palindrome {
     public boolean isPalindrome(String inputString) {
+        System.out.println("asd");
         if (inputString.length() == 0) {
             return true;
         } else {
